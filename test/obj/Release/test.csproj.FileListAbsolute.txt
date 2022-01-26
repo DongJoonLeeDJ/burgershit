@@ -1,0 +1,15 @@
+C:\Users\bb\Desktop\2022_01_19\test\test\bin\Release\test.exe.config
+C:\Users\bb\Desktop\2022_01_19\test\test\bin\Release\test.exe
+C:\Users\bb\Desktop\2022_01_19\test\test\bin\Release\test.pdb
+C:\Users\bb\Desktop\2022_01_19\test\test\bin\Release\Guna.UI.dll
+C:\Users\bb\Desktop\2022_01_19\test\test\bin\Release\Guna.UI2.dll
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.csproj.AssemblyReference.cache
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.Form1.resources
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.UserControl1.resources
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.csproj.GenerateResource.cache
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.csproj.CopyComplete
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.exe
+C:\Users\bb\Desktop\2022_01_19\test\test\obj\Release\test.pdb
